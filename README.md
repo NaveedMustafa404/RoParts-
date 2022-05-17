@@ -1,5 +1,6 @@
 # RoParts-
 RoParts - (Single vendor Ecommerce web application built on MERN Stack)
+
 1	Introduction
 1.1	Purpose
 The core purpose of this report is to summarizing my critical reflection, my experience with the semester long project for Application Development course. Reflective essays are a great platform from a developer’s point of view where he can portray his work, involvements, learnings and experience. As I have worked on building Ro-Part an e-commerce platform to sell and provide robotics accessories, along with my team mates, here in this report I will try my best to portray all the sprits works and my contributions.
@@ -10,31 +11,30 @@ Our team name is Fortitude. We are 5 members all and over. We know each other ve
 
 Team Members Role and Responsibilities:
 
-1	Mostafa Musab Naveed	Backend Developer 	
-•	Primary responsibilities 
-•	Backend Developer
-•	Building API’s
-•	Server handling
-•	Resources findings
+1	Mostafa Musab Naveed	Backend Developer 
+-  Primary responsibilities 
+-	Backend Developer
+-	Building API’s
+-	Server handling
+-	Resources findings
 
 2	Abu Sayed Khudri Roman 	Frontend Developer 
-•	Primary responsibilities 
-•	Frontend development 
-•	Page layout making
+-  Primary responsibilities  
+-  Frontend development 
+-  Page layout making
 
 3	Amit Hasan Sadhin	Project Manager 	
-•	Primary responsibilities 
-•	Planning for the project, analyzing the group mate’s suggestion, 
-•	Resource Findings,
+-  Primary responsibilities 
+-  Planning for the project, analyzing the group mate’s suggestion, 
+-  Resource Findings,
 
 4	Hamzeh Wahed Bajbouj	UI/UX Designer 
-•	Primary responsibilities 
-•	Designing the User interfaces
-•	User Experience
+-  Primary responsibilities 
+-  Designing the User interfaces
+-  User Experience
 
 5	Almuhannad Darwesh	Database manager 
-•	Primary responsibilities  
-
+-  Primary responsibilities  
 
 My role for my team is backend developer. And throughout this project I worked highly on this part of development. But as it is a team project, majority of the time I need to work on other’s role as well. Basically, it was totally a team game, where we shifted our roles several times for our own benefit and efficiency. Throughout the entire development phase, we did peer programming. Whenever We assigned any topic to be developed I tried to be there as a driver to help him if I’m assigned to that role. I’ve directly work on several parts of development. Which are:
 
