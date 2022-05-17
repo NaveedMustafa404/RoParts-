@@ -8,9 +8,8 @@ Below on this report I will talk about my team, my experience working with them,
 1.2	Group and my role
 Our team name is Fortitude. We are 5 members all and over. We know each other very well from the very beginning but it was first time we formed a team. As a team we were always confident with our plans and implementations. Every member was always eager to learn and try on new things. Our team meetings were more than a meeting as we gelled way easily, it was more interactive and fun session of learning. 
 
+Team Members Role and Responsibilities:
 
-Table 1: sample table if you require to use table
-No.	Name	Role	Responsibilities
 1	Mostafa Musab Naveed	Backend Developer 	
 •	Primary responsibilities 
 •	Backend Developer
@@ -73,23 +72,34 @@ Secure Payment: Our application accepts a variety of payment methods, including 
 24/7 Customer Service: Customers with difficulties or concerns regarding the purchase process can contact the customer service department for assistance. This assistance may be necessary before, during, or after a transaction, as shown in the following scenarios: For this type of service, we included a live chat feature to our website, 24/7. 
  
 Sample Screen Shots of our system:  
- 
- 
+ ![landingpage](https://user-images.githubusercontent.com/77004868/168717739-4d78b97f-37f9-4f11-bd5b-8438c5fea847.png) 
 Figure 1: LandingPage
- 
+
+![signin](https://user-images.githubusercontent.com/77004868/168717852-c64d2319-e2b7-48ba-a69a-3437e3f47d66.png) 
 Figure 2: SignIn
  
+![signup](https://user-images.githubusercontent.com/77004868/168717887-2e090f73-2309-443c-ac52-d6b21d9e70f2.png) 
 Figure 3: SignUp
  
+![store](https://user-images.githubusercontent.com/77004868/168717932-235078cb-1eda-4596-b04c-57ec048aed31.png)
+
 Figure 4: Store
 
- 
+![userdash](https://user-images.githubusercontent.com/77004868/168718041-b5b49df4-3bc5-43fe-976e-2b89571a6103.png)
+
 Figure 5: UserPurchasHistory
- 
+
+![adminmanageorder](https://user-images.githubusercontent.com/77004868/168718113-ff634e86-75f4-4d90-85f7-b5aaf6706f40.png)
+
 Figure 6: OrderManagement
 
- 
+ ![manageproduct](https://user-images.githubusercontent.com/77004868/168718176-3decb37b-d5e5-455e-8ec9-0ea00e3efc3a.png)
+
 Figure 7: ManageProduct
+
+![createproduct](https://user-images.githubusercontent.com/77004868/168718243-1e84da54-6c51-4757-946d-2aa5644c216c.png)
+
+Figure 8: Create/Upload Product
 
 2	Implementation of software development tools
 This project required us to implement some interesting tools during development …
@@ -97,37 +107,40 @@ This project required us to implement some interesting tools during development 
 2.1	Clockify
 Basically, we use Clockify to keep track of our working hours. And in my opinion, this is the best tool ever on tracking. It is the easiest to use. What I liked most about Clockify is how easy and intuitive it is to use. Plus, the variety and quality of reporting options is awesome. I am seeing easily how I'm spending my time. The data in the various reports is so helpful. I can see what projects in general are taking the bulk of my time, and then being able to see the top 10 tasks gives an even deeper insight. I have spent almost 140 hours which includes learning session, exploring and development part.
 
- 
+![Screenshot](https://user-images.githubusercontent.com/77004868/168718407-d3a9d48f-ec49-4665-9422-c873e83cc993.png)
+
 Figure 8: Clockify
  
-Figure 9: Clockify(This Year)
+
 2.2	Git & Github
 We have used Git & Github for version controlling. I had a difficult time working my way through it because I was new to git and the platform GitHub. One may work locally and push to the remote git repository using Github's features, such as a repository that is my git project. I thought I was doing okay with git until I learned about features like branching, pull requests, commit messages, and merging, as well as their many correct standards. Then it seemed to me that I still had a lot to learn in order to fully utilize this instrument. After learning the fundamentals of the git and GitHub workflows, I found that my work was more structured and that I could easily keep track of my files and project progress.
-GitHub Link : https://github.com/Hypertext-Assassins47/Roparts.git
- 
-Figure 10: Github
+
 
 2.3	IDE tools(VS CODE)
 Visual Studio Code features a lightning fast source code editor, perfect for day-to-day use. I personally prefer this IDE because it offers plenty of amazing features like, syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more. Intuitive keyboard shortcuts, easy customization and many more. It is probably the best IDE for Javascript, because it has, terminal, so anyone can use it for Node. js, there are so many extensions to play with as well. 
 
+![image](https://user-images.githubusercontent.com/77004868/168718549-9708407f-fa4e-41fe-a831-6e6459af06de.png)
  
 Figure 11: VS Code
 
 2.4	PostMan	
 Postman is basically HTTP Client based software application which is used to perform API testing. Postman provides inbuilt monitoring services that help us be in sync with the API development and performance. As we started developing backend first, then as a backend developer I used postman to test my APIs as there was no particular view available at that time. 
- 
+
+![image](https://user-images.githubusercontent.com/77004868/168718802-884488e2-4f5f-4f5a-8ba3-a6e9aaf12fd8.png)
+
 Figure 12: Postman
 
 
 2.5   JIRA
 
 From my personal experience JIRA is an amazing project management tool. It really helped us in terms of: team collaboration, Agile methodology adoption, manage our time and checking the deadlines. We maintained our project progress where we divided our development cycle in 4 sprints. We updated our works at the end of each sprints. Besides it helps us to keep our flow and prioritize our tasks till the last. 
- 
+
+![image](https://user-images.githubusercontent.com/77004868/168718876-b4e21382-a459-45f6-b98b-78a605ed7242.png)
+
 Figure 13: BurnupReport
  
-Figure 14: BurnupReport
+![image](https://user-images.githubusercontent.com/77004868/168718925-d9177f33-dcbb-4481-bc7a-5780a99884b2.png)
 
- 
 Figure 15: CumulativeFlowDiagram
  
 3	Soft Skill set enhancement
@@ -160,7 +173,8 @@ Hard skills are an important component of our studies, and during the course of 
 
 4.1	Wireframing and UI/UX
 Wireframing is one of the most critical tasks we must perform prior to beginning development. We wanted to do everything we could to understand the individuals for whom we were developing, so we worked closely with them to thoroughly grasp their requirements and desires. It was critical to think about how this website might add value to the relationships and communities we intended to help our customers build. Wireframing was done in Adobe XD and Photoshop. Before development it helps to justify whether the design would be suitable for consumer or client.
- 
+
+![image](https://user-images.githubusercontent.com/77004868/168718974-48fcc509-17b7-40ad-a034-af1274d79f54.png)
 Figure 16: Prototype
 
 
@@ -170,7 +184,7 @@ I was involved during development. We have used DigitalOcean which is a robust t
 4.3	Web development
 RoParts is a web-based application. And to be honest it is kind of my point of interest too. Throughout this project I have learned how to handle development problems and the big thing is now I know what is the approach to build or develop a web applications. We were determined to use the latest market leading technologies for developing our application so we chose MERN stack which is basically comprises of 4 technologies, MondoDB, ExpressJS, ReactJS and NodeJS. This Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications
 
- 
+ ![image](https://user-images.githubusercontent.com/77004868/168719004-ed4be2fd-6d7b-4ef8-b00e-7a9dce5956e3.png)
 
 MongoDB: This is a NoSQL database where data are stored in form of JASON.
 
